@@ -130,6 +130,6 @@ self.crop_pts = ([0,0],[320,0],[0,240],[320,240])
 
 > Bird's eye View
 
-각
+시점의 각도를 정면을 바라보는 것이 아닌 마치 새가 아래서 내려다 보는 것과 같이 위에서 차량을 보는 각도로 변경
 
 <img src="./img/bird_eye_view.JPG"  width="500" height="200">
